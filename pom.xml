@@ -7,7 +7,7 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>2.5.10</version>
-		<relativePath /> <!-- lookup parent from repository -->
+		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.fis.app</groupId>
 	<artifactId>Shedlock</artifactId>
@@ -16,7 +16,7 @@
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
-		<shedlock.version>4.29.0</shedlock.version>
+		<shedlock.version>4.34.0</shedlock.version>
 	</properties>
 	<dependencies>
 		<dependency>
